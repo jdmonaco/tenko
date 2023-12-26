@@ -1,0 +1,29 @@
+# Project files to ignore
+runfile
+*.taskpaper
+__Archive__/
+__archive__/
+Session.vim
+?session.vim
+
+# Python cruft
+*.egg-info/
+*.py[cod]
+.cache/
+.eggs/
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+eggs/
+sdist/
+
+# Ignore temp/stash/build directories
+build/
+dist/
+old/
+scratch/
+Temp/
+temp/
+Tmp/
+tmp/
+trash/

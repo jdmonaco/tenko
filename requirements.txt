@@ -1,0 +1,17 @@
+# channels: pyviz
+python 
+jupyter 
+ipython 
+ipyparallel
+matplotlib 
+scipy 
+numpy 
+pillow 
+panel
+networkx 
+pandas
+pygraphviz
+pytables 
+scikit-learn
+pip:
+ - ipdb
